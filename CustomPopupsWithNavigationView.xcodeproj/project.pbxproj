@@ -78,8 +78,8 @@
 		36E958ED27B3D30F0066C18D /* View */ = {
 			isa = PBXGroup;
 			children = (
-				36E958E127B3B37D0066C18D /* ContentView.swift */,
 				36E958F127B3D3400066C18D /* HomeView.swift */,
+				36E958E127B3B37D0066C18D /* ContentView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
